@@ -12,5 +12,5 @@ Completed Labs for Meera Nanda
 1. [Meera Nanda's Lab 1](//github.com/meerananda/IDD-Fa18-Lab1)
 1. [Meera Nanda's Lab 2](//github.com/meerananda/IDD-Fa19-Lab2)
 1. [Meera Nanda's Lab 3](//github.com/meerananda/IDD-Fa19-Lab3)
-1. [Meera Nanda's Lab 4]()
-1. [Meera Nanda's Lab 5]()
+1. [Meera Nanda's Lab 4](//github.com/meerananda/IDD-Fa19-Lab4)
+1. [Meera Nanda's Lab 5](//github.com/meerananda/IDD-Fa19-Lab5)
